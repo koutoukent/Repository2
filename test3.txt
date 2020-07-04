@@ -1,2 +1,7 @@
 修改了test3.txt
+<<<<<<< HEAD
 ③say：nice to meet you
+=======
+①say：hello
+②say：i am jack
+>>>>>>> 90b2be4160227a4af02aa53ebeed53929e4f022a
